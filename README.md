@@ -133,17 +133,22 @@ How to Run
 
 **Screenshots**
 ----------
-
-![image](https://github.com/user-attachments/assets/93171a14-f6cf-4b4c-8270-f290e0c544e7)
-![image](https://github.com/user-attachments/assets/f1360a5d-0c64-404f-bacf-b94e1018b029)
-![image](https://github.com/user-attachments/assets/651d5951-df81-40fa-9868-73c70bffa0da)
-![image](https://github.com/user-attachments/assets/fd8141fa-f74c-45c9-af02-b26db747869e)
-![image](https://github.com/user-attachments/assets/abbc3990-11a8-473d-a865-1e4dc7561009)
-![image](https://github.com/user-attachments/assets/44125ddd-6d33-492d-97ef-5d7bcfe2ea91)
-![image](https://github.com/user-attachments/assets/198c17fe-713d-485c-ae4b-415775209bbc)
-![image](https://github.com/user-attachments/assets/08335909-46b5-4877-b513-d9692663c0ea)
-
-
+<p align="center"><img src="https://github.com/user-attachments/assets/7428e41e-13cf-4715-90af-0d80ac74774d" alt><br><em>The flow chart of the research framework</em></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/93171a14-f6cf-4b4c-8270-f290e0c544e7" alt><br><em>Beginning of the game when the player faces the dangerous situation, e.g., the building on the fire and sees the evacuation sign for them to vacate the area</em></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/f1360a5d-0c64-404f-bacf-b94e1018b029" alt><br><em>Pedestrian flows example</em></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/651d5951-df81-40fa-9868-73c70bffa0da" alt><br><em>Bus stop location (one of the marshal points) with trees and the player is yet to choose which way to go in order to evacuate</em></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/fd8141fa-f74c-45c9-af02-b26db747869e" alt><br><em>The final exit location with a bus standing in front of a bus stop (the second alternative marshal point)</em></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/abbc3990-11a8-473d-a865-1e4dc7561009" alt><br><em>Case study area of Halifax city</em></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/91e86bb7-9db2-4412-a259-148e8130611a" alt><br><em>The start of the game when the player faces the dangerous situation, e.g., the building on the fire. This is an evacuation sign-free scenario. Hence, the player is guided by the movements of other pedestrians and their characteristics</em></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/06b5bec3-ff46-487f-9b15-d44e8964af2c" alt><br><em>The pedestrian flows example</em></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/3ea78335-d8e0-4ab9-a297-88803e7bb4c4" alt><br><em>The junction where the player can choose between the two alternative marshal points to evacuate</em></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/f5ac58fd-028e-4de4-9dd8-b3e6c836450a" alt><br><em>Shows the ultimate exit point for the player that they have reached the bus which will help them to evacuate</em></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/44125ddd-6d33-492d-97ef-5d7bcfe2ea91" alt><br><em>Game settings - Unity (1)</em></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/198c17fe-713d-485c-ae4b-415775209bbc" alt><br><em>Game settings - Unity (2)</em></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/08335909-46b5-4877-b513-d9692663c0ea" alt><br><em>Game settings - Unity (3)</em></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/ec77be71-ce9e-4288-8ca4-b263fd5340f6" alt><br><em>Unity's Tree Asset used</em></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/d51e0064-d04f-499e-8737-fbb1cca13f04" alt><br><em>Unity's Bus Asset used</em></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/016c212a-c416-4f0d-9fb6-4e55064352b6" alt><br><em>Scenarios for the outdoor evacuation virtual reality</em></p>
 
 Future Steps
 ------------
@@ -160,5 +165,5 @@ This project is licensed under the [MIT License](https://chatgpt.com/c/LICENSE).
 Acknowledgments
 ---------------
 
--   Research mentors and collaborators.
+-   Research mentors, 3D model designer and collaborators.
 -   Open-source tools and Unity Asset Store contributors.
