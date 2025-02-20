@@ -6,6 +6,11 @@ Overview
 
 The **VR Evacuation Simulation** is a multi-disciplinary research-driven project developed using Unity3D. It aims to analyze pedestrian behavior and player decisions during emergency evacuation scenarios, such as fire evacuations, within a virtual cityscape of Halifax, NS, Canada. The simulation leverages VR technology to create immersive evacuation scenarios that help understand crowd dynamics and enhance safety protocols.
 
+Medium Link
+---------
+
+[Escaping in VR: A Journey Through Halifax’s Virtual Fires](https://namrata-bhaumik.medium.com/escaping-in-vr-a-journey-through-halifaxs-virtual-fires-ba2837141509?source=friends_link&sk=2da37828fecc18120e7affa38f668626)
+
 Game Flow
 ---------
 
